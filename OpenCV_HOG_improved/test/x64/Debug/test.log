@@ -1,0 +1,10 @@
+﻿已經開始建置於 2017/3/29 上午 02:10:06。
+     1>節點 2 (Build 目標) 上的專案 "D:\course\105-1\專題\OpenCV_HOG_improved\test\test.vcxproj"。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\course\105-1\專題\OpenCV_HOG_improved\x64\Debug\test.exe" /INCREMENTAL /NOLOGO C:\opencv\build\x64\vc12\lib\opencv_ml2411d.lib C:\opencv\build\x64\vc12\lib\opencv_calib3d2411d.lib C:\opencv\build\x64\vc12\lib\opencv_contrib2411d.lib C:\opencv\build\x64\vc12\lib\opencv_core2411d.lib C:\opencv\build\x64\vc12\lib\opencv_features2d2411d.lib C:\opencv\build\x64\vc12\lib\opencv_flann2411d.lib C:\opencv\build\x64\vc12\lib\opencv_gpu2411d.lib C:\opencv\build\x64\vc12\lib\opencv_highgui2411d.lib C:\opencv\build\x64\vc12\lib\opencv_imgproc2411d.lib C:\opencv\build\x64\vc12\lib\opencv_legacy2411d.lib C:\opencv\build\x64\vc12\lib\opencv_objdetect2411d.lib C:\opencv\build\x64\vc12\lib\opencv_ts2411d.lib C:\opencv\build\x64\vc12\lib\opencv_video2411d.lib C:\opencv\build\x64\vc12\lib\opencv_nonfree2411d.lib C:\opencv\build\x64\vc12\lib\opencv_ocl2411d.lib C:\opencv\build\x64\vc12\lib\opencv_photo2411d.lib C:\opencv\build\x64\vc12\lib\opencv_stitching2411d.lib C:\opencv\build\x64\vc12\lib\opencv_superres2411d.lib C:\opencv\build\x64\vc12\lib\opencv_videostab2411d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\course\105-1\專題\OpenCV_HOG_improved\x64\Debug\test.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\course\105-1\專題\OpenCV_HOG_improved\x64\Debug\test.lib" /MACHINE:X64 x64\Debug\Source.obj
+         test.vcxproj -> D:\course\105-1\專題\OpenCV_HOG_improved\x64\Debug\test.exe
+     1>專案 "D:\course\105-1\專題\OpenCV_HOG_improved\test\test.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.42

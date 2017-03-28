@@ -1,0 +1,17 @@
+﻿已經開始建置於 2017/3/9 上午 12:23:56。
+     1>節點 2 (Build 目標) 上的專案 "D:\course\105-1\專題\test\test\test.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\include\opencv2 /IC:\opencv\build\include\opencv /IC:\opencv\build\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\course\105-1\專題\test\Debug\test.exe" /INCREMENTAL /NOLOGO C:\opencv\build\x64\vc12\lib\opencv_ml2413d.lib C:\opencv\build\x64\vc12\lib\opencv_calib3d2413d.lib C:\opencv\build\x64\vc12\lib\opencv_contrib2413d.lib C:\opencv\build\x64\vc12\lib\opencv_core2413d.lib C:\opencv\build\x64\vc12\lib\opencv_features2d2413d.lib C:\opencv\build\x64\vc12\lib\opencv_flann2413d.lib C:\opencv\build\x64\vc12\lib\opencv_gpu2413d.lib C:\opencv\build\x64\vc12\lib\opencv_highgui2413d.lib C:\opencv\build\x64\vc12\lib\opencv_imgproc2413d.lib C:\opencv\build\x64\vc12\lib\opencv_legacy2413d.lib C:\opencv\build\x64\vc12\lib\opencv_objdetect2413d.lib C:\opencv\build\x64\vc12\lib\opencv_ts2413d.lib C:\opencv\build\x64\vc12\lib\opencv_video2413d.lib C:\opencv\build\x64\vc12\lib\opencv_nonfree2413d.lib C:\opencv\build\x64\vc12\lib\opencv_ocl2413d.lib C:\opencv\build\x64\vc12\lib\opencv_photo2413d.lib C:\opencv\build\x64\vc12\lib\opencv_stitching2413d.lib C:\opencv\build\x64\vc12\lib\opencv_superres2413d.lib C:\opencv\build\x64\vc12\lib\opencv_videostab2413d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\course\105-1\專題\test\Debug\test.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\course\105-1\專題\test\Debug\test.lib" /MACHINE:X86 Debug\Source.obj
+     1>Source.obj : error LNK2019: 無法解析的外部符號 _cvCreateImage 在函式 _main 中被參考
+     1>Source.obj : error LNK2019: 無法解析的外部符號 _cvSetZero 在函式 _main 中被參考
+     1>Source.obj : error LNK2019: 無法解析的外部符號 _cvShowImage 在函式 _main 中被參考
+     1>Source.obj : error LNK2019: 無法解析的外部符號 _cvWaitKey 在函式 _main 中被參考
+     1>D:\course\105-1\專題\test\Debug\test.exe : fatal error LNK1120: 4 個無法解析的外部符號
+     1>專案 "D:\course\105-1\專題\test\test\test.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:01.11
