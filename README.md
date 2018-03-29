@@ -1,5 +1,7 @@
-# Running_man_detcetion
+# 2017-CoputerScience And Engineering Project - Running People Detcetion
 
-NCTU CS 資訊工程專題(一)(二)
+NCTU CS DCP4121 CoputerScience And Engineering Project(I), (II) (2016 Fall, 2017 Spring)
 
-在環形跑道上，去出辨識不同背景地點中的同一個人
+Detect and analyze runner on NCTU campus running track.
+
+Main using technique : c++, OpenCV
