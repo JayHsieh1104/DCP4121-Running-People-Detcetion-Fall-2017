@@ -1,7 +1,8 @@
-# 2017-CoputerScience And Engineering Project - Running People Detcetion
+# DCP4121 Computer Science and Engineering Project - Running People Detection
 
-NCTU CS DCP4121 CoputerScience And Engineering Project(I), (II) (2016 Fall, 2017 Spring)
+NCTU CS DCP4121 Computer Science and Engineering Project I, II (Fall 2016, Spring 2017)
 
-Detect and analyze runner on NCTU campus running track.
+The project aims to detect and analyze runners running on the tracks around the NCTU campus.
 
-Main using technique : c++, OpenCV
+## System Architechure
+![](https://i.imgur.com/eUmPUXO.png)
